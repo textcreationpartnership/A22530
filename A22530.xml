@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning new buildings, in and about the citie of London and against the diuiding of houses into seuerall dwellings, and receiuing and harbouring of inmates.</title>
+            <title>Proclamations. 1630-07-16</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22530</idno>
+            <idno type="STC">STC 8958</idno>
+            <idno type="STC">ESTC S101011</idno>
+            <idno type="EEBO-CITATION">99836837</idno>
+            <idno type="PROQUEST">99836837</idno>
+            <idno type="VID">1126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:78)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning new buildings, in and about the citie of London and against the diuiding of houses into seuerall dwellings, and receiuing and harbouring of inmates.</title>
+                  <title>Proclamations. 1630-07-16</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>5, [1] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXX. [1630]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Nonsuch, the sixteenth day of Iuly, in the sixth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 23; Steele notation: more gers 2) expec- 3) proceeding 4) Justices 5) be- 6) an royall,.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buildings --  England --  London --  Repair and reconstruction --  Law and legislation --  Early works to 1800.</term>
+               <term>Housing, Single family --  England --  London --  Conversion to accessory apartments --  Law and legislation --  Early works to 1800.</term>
+               <term>London (England) --  Buildings, structures, etc. --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:1126:1"/>
+            <head>
+               <figure>
+                  <p>CR</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation concerning New Buildings, in and about the Citie of London, and againſt the diui<g ref="char:EOLhyphen"/>ding of houſes into ſeuerall dwellings, and receiuing and har<g ref="char:EOLhyphen"/>bouring of Inmates.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas in the firſt yeere of Our Reigne, aſſoone as the more</hi> important affaires of Our State would giue Vs leaue, taking in<g ref="char:EOLhyphen"/>to Our Princely conſideration the ſtate of Our Citie of <hi>London,</hi> be<g ref="char:EOLhyphen"/>ing Our Royall Chamber, and the Imperiall ſeate of Our King<g ref="char:EOLhyphen"/>domes, renowned ouer all the parts of Chriſtendome, both in re<g ref="char:EOLhyphen"/>ſpect of the vſuall reſidence of Our Royall Perſon and Court neere vnto it, the confluence of Forreigne Ambaſſadours and Stran<g ref="char:EOLhyphen"/>gers thither, the ordinary place for Our Courts of Iuſtice, and re<g ref="char:EOLhyphen"/>ſort of our Nobilitie and Gentry there for theſe occaſions;</p>
+            <p>And foreſeeing that the honour, gouernment, health and ſafety of this Citie, was of great conſequence vnto Vs, and that Our Royall Progenitors in former times (eſpecially Our moſt Royall Father of bleſſed memory, King <hi>IAMES,</hi> &amp; the moſt Excellent Princeſſe Queene <hi>ELIZABETH,</hi> in their times) by their Royall Proclamations had carefully prouided for the ſame, Wee, according to thoſe worthy examples, by Our Royall Proclamation did ſtraitly pro<g ref="char:EOLhyphen"/>uide againſt the erecting of Houſes &amp; Buildings vpon new Foundations, &amp; the entertaining of Inmates, in and about this Citie, which would multiple the Inhabitants to ſuch an exceſſiue number, that they could neither be gouerned nor fedd; And did alſo thereby giue Rules for the Repairing and new Building of ancient houſes decayed, in ſuch a comely manner, with Bricke or Stone, as might bee for the honour and ſafety of the Citie; And for the putting of this Our Commandement into due execution, Wee did make, and ſeuerall times renew Our Commiſſion directed to the Lord Maior of Our ſaid Citie, and diuers other perſons of honour and worth, grounding the ſame vpon rules of Law and Iuſtice, as againſt publique and common Nuſances, aſwell as vpon reaſon of State and Gouernement, all tending to
+<pb facs="tcp:1126:2"/>the publique good of Our people: But that taking not ſo full effect hitherto as Wee expec<g ref="char:EOLhyphen"/>ted, Wee have now againe reſolued to renew that Our Commiſſion to diuers Honourable perſons, and others of worth and vnderſtanding; And therefore Wee doe hereby publiſh and declare Our Royall pleaſure and Command, That Our ſayd Commiſſioners for that ſeruice, ſhall foorthwith aſwell by taking a view in their owne perſons from time to time, as by all other good wayes and meanes, enquire and finde out the offenders and of<g ref="char:EOLhyphen"/>fences done againſt the ſeuerall Proclamations made heretofore by Our ſaid Father, and by Our Selfe, as againſt this preſent Proclamation, and the ſame being ſo found out, to make certificate thereof vnder their hands, or vnder the hands of two, or more of them, to Our Selfe, as againſt this preſent Proclamation, and the ſame beeing ſo found out, to make certificate thereof vnder their hands, or vnder the hands of two, or more them, to Our Counſell Board, or to binde them ouer to anſwere their contempts, either before the Lords of Our Priuie Councell, or in Our Court of Starchamber, to the end that ſuch proceeding may bee had againſt them, as may ſtand with Our Honour and with Our Lawes.</p>
+            <p>And for ſtay and preuention of the like offences hereafter, Our expreſſe will and plea<g ref="char:EOLhyphen"/>ſure is, That where any perſon ſhall preſume after the publication of this Proclamation, to erect, or ſet vp in any kind whatſoeuer, any Building vpon new Foundation within the limits of three miles, from any of the Gates of the Citie of <hi>London</hi> or Palace of <hi>Weſtminſter;</hi> That the Owners of the Building ſo begun, and all the workemen therein imployed, ſhall forthwith by force and vertue of Our Royall commandement (without expecting any other or further Warrant) be attached, &amp; brought before ſome of Our ſayd Commſſioners and Iu<g ref="char:EOLhyphen"/>ſtices of Peace, whom Wee alſo hereby require and command, to commit them to Priſon, vn<g ref="char:EOLhyphen"/>till they ſhall find ſufficient ſureties for ſtay of their ſayd Building, as alſo for their appea<g ref="char:EOLhyphen"/>rance before the Lords of Our Priuie Councell, or in Our high Court of Starchamber, to anſwere ſuch their contempts, and to vndergoe ſuch Sentence, as by that Court ſhall bee giuen againſt them.</p>
+            <p>And for ſuch as ſhall hereafter Reedifie or build vpon did Foundations in any other ſort then is preſcribed in Our former Proclamations, and by the Inſructions herein expreſſed; That aſwell all ſuch Builders, as the workemen therein imployed, ſhall bee attached like<g ref="char:EOLhyphen"/>wiſe and proceeded withall as aforeſaid.</p>
+            <p>And whereas by Our former Proclamation wee charged and commanded the Aldermen of the Citie of <hi>London,</hi> and their Deputies, in their ſeuerall Wards and Precincts, as likewiſe the Iuſtices of Peace, High and Petie Conſtables, and all other inferiour Officers within their ſeuerall limits &amp; Iuriſdictions, happening within the ſeuerall Counties of Middleſex, Eſſex, Kent, and Surrey, That they and euery of them in their ſeuerall places and Offi<g ref="char:EOLhyphen"/>ces reſpectiuely, ſhould diligently and duely attend to giue their vttermoſt ayde, helpe, and aſ<g ref="char:EOLhyphen"/>ſiſtance according to their dueties, for the due obſeruance to ſee this Our Royall pleaſure (ſo much concerning the publique good) to bee duely executed and performed; And where they or any of them ſhould finde any offence to bee committed againſt any Branch or Article of the ſayd Proclamation, to make ſtay thereof, and certifie the Commiſſioners or the Lords of Our Priuie Councell of the ſaid offences and offenders, it being now manifeſt, that ma<g ref="char:EOLhyphen"/>ny of the ſayd offences haue beene committed and done by the negligence or conniuencie of ſome of the Aldermens Deputies within the Citie of <hi>London,</hi> &amp; other inferiour Officers in the
+<pb facs="tcp:1126:3"/>Counties adiacent, in not attending Our Commandement by timely ſtaying the proceeding of ſuch new buildings.</p>
+            <p>Wee therefore doe hereby declare Our will and pleaſure to be, That where any Building ſhall bee begun contrary to this Our Proclamation, Wee will take a ſtrict account there<g ref="char:EOLhyphen"/>of, aſwell from the ſaid Aldermen, as the Iuſtices of Peace aforeſayd, happening within their ſeuerall limits and Iuriſdictions.</p>
+            <p>And further Our will and pleaſure is, That aſwell the Aldermens Deputies in their ſe<g ref="char:EOLhyphen"/>uerall Precincts, as the High and Petie Conſtables, and Headboroughs, and other inferiour Officers in their ſeuerall Pariſhes, and dwelling in or neere to the place where any ſuch new Building ſhall happen to bee begun, contrary to the Tenour of this Our Proclamation; And they or ſome of them not attaching the perſon or perſons ſo offending, and not bringing them before ſome of Our Commiſſioners as aforeſayd, That euery ſuch Aldermans Depu<g ref="char:EOLhyphen"/>tie, high Conſtable, petie Conſtable and Headborough, or other inferiour Officers, ſhall be not onely remooued from their ſeuerall Places and Offices, but bee committed to the com<g ref="char:EOLhyphen"/>mon Gaole of the Citie of <hi>London,</hi> and Counties of Middleſex, Eſſex, Kent, and Surry, re<g ref="char:EOLhyphen"/>ſpectiuely where ſuch offence or offences ſhall be committed; and euery of them to bee bound with good ſureties for his and their good behauiour for one whole yeere then after, to the end that by ſuch their puniſhment, others may learne the better to performe their duties in this Our Seruice.</p>
+            <p>And to the end that ſuch as doe conforme in their building to the order and forme preſcri<g ref="char:EOLhyphen"/>bed by Vs, may receiue due encouragement by hauing their Materials at reaſonable Rates and Prices, which Wee are informed is much inhanced and raiſed from the Prices former<g ref="char:EOLhyphen"/>ly ſet by Our Commiſſioners: It is therefore Our will and pleaſure, That Our Com<g ref="char:EOLhyphen"/>miſſioners for Buildings doe call before them all and euery the Brickmakers, and Lime-burners within three miles diſtant of <hi>London,</hi> as alſo ſuch as doe bring any of the ſaid Ma<g ref="char:EOLhyphen"/>terials by land or water to the Citie of <hi>London,</hi> or the places neere adioyning, and doe take or<g ref="char:EOLhyphen"/>der from time to time aſwell for the reducing of the Prices thereof to former, vſuall and reaſo<g ref="char:EOLhyphen"/>nable Rates, or otherwiſe according to their good diſcretions to bee by them ſet, as alſo for the preſent and ſpeedy ſuppreſſing of all and euery the Nuſances by them dayly committed in their ſeuerall profeſſions of Brick making and Lime-burning ſo neere the Citie of <hi>London,</hi> and the parts and places adioyning thereunto, and for the ſelling of thoſe Materials at and for reaſonable Rates and Prices, according to the Articles hereafter following.</p>
+            <p>FIrſt, Wee doe ſtrictly charge and command, That no dwelling Houſes, Stables, Shops, Stalles, or any other Building whatſoeuer, bee from hencefoorth erected, or attempted to bee erected within the Citie of <hi>London,</hi> or the Suburbs thereof, or within the diſtance of three miles to bee taken from any Gate of the ſayd Citie, or from Our Palace at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> except it bee vpon the Foundation of a former dwelling houſe, or ſuch like Building; And if any ſuch Building contrary to this Prohibition ſhall hereafter happen to be begunne, that the ſame bee foorthwith ſtayed from further proceeding, by the Alderman of the Ward, or by two of the next Iuſtices of Peace, and aſwell ſuch Builder, as the Workemen em<g ref="char:EOLhyphen"/>ployed therein, committed to Priſon, vntill they ſhall enter into ſufficient Bond, either to demoliſh, &amp; pull downe that which is built, or to anſwere their contempt in our high Court of Starchamber, or before the Lords of the Priuy Councell at the Councell Board, And the Conſtable of the Pariſh or Place, ſhall from time to time in the firſt beginning of any
+<pb facs="tcp:1126:4"/>ſuch Worke or building, giue notice to the Alderman of the Warde, or two next Iuſtices of Peace, of any ſuch offence, and of the offenders therein, that this Proclamation may bee ſpeedi<g ref="char:EOLhyphen"/>ly and freſhly put in execution, All Houſes, Sheddes, Shoppes, and other Buil<g ref="char:EOLhyphen"/>dings, which haue beene builded or ſet vp within the limits aforeſaid, at any time ſithence the thirteenth yeere of the Reigne of Our ſaid late Father King <hi>IAMES</hi> of bleſſed memory, contrary to any Proclamation publiſhed in His time, ſhall bee foorthwith pulled downe, as is before directed touching other Buildings to be ſtayed or pulled downe, and no Cellars erec<g ref="char:EOLhyphen"/>ted within the time laſt mentioned, to bee vſed for Lodgings or Victualling Houſes, but the Occupiers thereof to be ſuppreſſed, and ſo to be kept by the Iuſtices of Peace.</p>
+            <p>THat no perſon or perſons doe Erect, Reedifie, or ſet vp any Houſe, or Building in <hi>London,</hi> or within the diſtance of three miles from any the Gates of the ſayd Citie of <hi>London,</hi> or from Our ſaid Palace at <hi>Weſtminſter,</hi> vnleſſe he doe make all the vtter-Walles of the ſame of Bricke, or Bricke and Stone; And that all Houſes and Buildings to be erected within the ſayd Citie, or in, or adioyning to any open Streete of any Towne or Village out of the ſayd Citie, within the limits of three miles aforeſayd, ſhall bee built according to the forme and proportion hereafter in theſe preſents expreſſed: <hi>(viz.)</hi> Euery whole Story of and in ſuch Houſes and Buildings, and all &amp; euery the Roomes of ſuch whole Story, ſhall be of the height of tenne foote of Aſſize at the leaſt, and euery halfe Story of and in ſuch Houſes and Buil<g ref="char:EOLhyphen"/>dings, ſhall bee of the height of ſeuen foote and a halfe at the leaſt; And that in the fore<g ref="char:EOLhyphen"/>front, and all outward and diuiſion Walles betwixt houſe and houſe, and the Iambes, Heads and ſoyles of the Windowes ſhall bee of Bricke, or of Bricke and Stone, and the Windowes (being of Timber) not to bee put in vntill the Iambes and Heads aforeſaid bee finiſhed, and beare of themſelues.</p>
+            <p>ANd if the ſayd buildings doe not exceede two Stories in height, then the Walles there<g ref="char:EOLhyphen"/>of ſhall be of the thickneſſe of one Bricke and halfe a Brickes length according to the aſſize of Brickes hereunder mentioned, from the ground vnto the vppermoſt part of the ſaid Wals; And where the building ſhall be of the height of three Stories, the Walles of the firſt Story ſhall bee of the thickneſſe of two Brickes length, and from thence vnto the vppermoſt part of the Wall of the thickneſſe of one Bricke and halfe a brickes length, and ſo proportionably, if there ſhall bee more Stories.</p>
+            <p>THat, in building of ſaid Houſes there ſhall bee no Iuſties or Iutting, or Cantwin<g ref="char:EOLhyphen"/>dowes, either vpon Timber Ioiſtes, or otherwiſe, but the walles to goe direct and ſtraight vpwards, and at the ſetting of, a water table to bee made; Alſo the lights of the windowes of euery whole Story to be of more height then breadth, to the end the Roomes may receiue ayre for health, and there may bee ſufficient Peeres of Bricke, not leſſe then halfe the bredth of the Windowes betweene them for ſtrength; And likewiſe the Windowes of euery halfe Story to bee made ſquare euery way, or neere thereabouts.</p>
+            <p>THat all Shops and Streete doores be made with Pillaſters of Stone or Bricke, to be in breadth fifteene inches at the leaſt, and as thicke as the wall of the Story, and the heads of the Shop-windowes cut in wedges, with Arches ouer them to ſuſtaine the wall aboue; And that none doe raiſe their firſt floore to gaine height in their Cellars, ſo as they are thereby forced to make ſteppes into the ſtreete: Prouided alwayes, that for ſo much as con<g ref="char:EOLhyphen"/>cerneth the building with Bricke or Stone, ſhall not extend to any Buildings vpon <hi>London Bridge,</hi> which by reaſon of the ſituation thereof cannot with conueniencie be ſo built.</p>
+            <p>ANd for the better encouragement of Our louing Subiects in their Buildings, according to the direction of this Proclamation: Wee haue thought fit to ſet downe theſe orders fol<g ref="char:EOLhyphen"/>lowing concerning the true making and rating of the price of Bricke, which is one of the prin<g ref="char:EOLhyphen"/>cipall Materials requiſite for the ſaid buildings: <hi>(viz.)</hi>
+            </p>
+            <p>THat the earth whereof the Bricke ſhall bee made, bee good and fit for that purpoſe, The firſt digging thereof to be betweene the Feaſts of <hi>S. Michael</hi> the Archangel, and <hi>S. Thomas</hi>
+               <pb facs="tcp:1126:5"/>the Apoſtle, and the ſecond digging, caſting, or turning vp of the ſayd earth, to be at or be<g ref="char:EOLhyphen"/>fore the laſt day of February then following; And that no perſon whatſoeuer doe preſume to digge or make any Bricke in any place within one mile of the Gates of the ſaid Citie of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or within one mile of Our Palace of <hi>Weſtminſter.</hi>
+            </p>
+            <p>THat the ſayd earth bee ſufficiently and well wrought and tempered before it bee moulded, and the Brickmakers cauſe no earth to bee moulded for Bricke, but onely betweene the Feaſt of the <hi>Annunciation</hi> of the bleſſed Virgin <hi>Mary,</hi> and the laſt day of Auguſt yeerely, and at no other time or ſeaſon of the yeere.</p>
+            <p>THat in the moulding of the ſayd Bricke, the Moulds bee throughly and well filled, and not ſet in the Moulds in the laying downe; And that they be ſufficiently and well dryed be<g ref="char:EOLhyphen"/>fore they be put into the Kilne, and then carefully and throughly wel burned, ſo as for the aſſize euery Bricke being burned containe in length nine inches, in bredth foure inches one quar<g ref="char:EOLhyphen"/>ter and halfe a quarter of an inch, and in thickneſſe two inches and one quarter of an inch.</p>
+            <p>THat the price of Brickes (being thus wrought and made in goodneſſe, ſize, and man<g ref="char:EOLhyphen"/>ner as aforeſayd) ſhall not exceede the rate of eight ſhillings the thouſand at the Kilne; And if any exceſſiue rate be demaunded for the carriage of the ſayd Brickes from the Kilne to the place where they ſhall bee to bee vſed, the Commiſſioners for buildings to moderate the ſame, according to equity in their good diſcretions; And that no perſon or perſons ſhall make, or cauſe to bee made, within fiue miles of any of the Gates of the Citie of <hi>London,</hi> nor bring by water or land, or vtter, ſell, or put to ſale within the ſaid Citie, or any place or pla<g ref="char:EOLhyphen"/>ces within fiue miles thereof, as aforeſaid, any Brickes made or wrought contrary to the di<g ref="char:EOLhyphen"/>rections aforeſayd, nor ſell the ſame at any higher rate then is before mentioned.</p>
+            <p>THat no perſon or perſons within the ſayd Citie of <hi>London,</hi> or within three miles from any the Gates thereof, or from Our Palace of <hi>Weſtminſter,</hi> ſhall in defrauding the intent of this Proclamation, ſupport or ſtrengthen any Buildings ſo ruinous and old, as are vnfit to bee continued, by digging of Cellars, and bringing vp new bricke walles, by erecting new Chimneys and Staire-caſes, by placing of pieces of Timber, by ſetting on new Roofes or Rafters, and thruſting out of Dormers, knitting and faſtning together the ſayd new ad<g ref="char:EOLhyphen"/>ditions vnto the old Timber, by Barres and Crampes of Iron, or other like deuices, vn<g ref="char:EOLhyphen"/>leſſe hee or they ſhall bee thereunto licenced and allowed by Our Commiſſioners for Buil<g ref="char:EOLhyphen"/>dings.</p>
+            <p>THat no perſon or perſons within the limits laſt aforeſayd, do at any time or times hereafter preſume or attempt, to erect, couer, ouerlay, or incloſe any Houels, or others Sheds of Tim<g ref="char:EOLhyphen"/>ber, with Reedes, Faggots, Hay, Straw, Boards, or other Materials, or doe rayſe vp any Wall, Pale, or banke of earth, to which Sheds may bee added, or doe repaire or new make into the Streets, any manner of bulkes, ſtalles, windowes, doores, or other offenſiue iſſues, or doe alter or change the vſe of any dwelling houſe, or other building, to any more noyſome or offenſiue vſe, end, or purpoſe then the ſame was imployed before the time of the demoliſhing or altering the ſame, without the ſpeciall licence and allowance of the ſayd Commiſſioners for buildings. And for that the diuiding of houſes into ſeuerall tenements and habitations, and the letting part of houſes and chambers to Inmates and vnderſitters, is no leſſe in<g ref="char:EOLhyphen"/>conuenient then exceſſiue buildings, aſwell in regard of ſurcharge of people, eſpecially of the worſt ſort, and for breeding and ſpreading of infection, as otherwiſe, Wee doe alſo command theſe Articles following to bee duely obſerued.</p>
+            <p>THat no perſon or perſons within the Citie of <hi>London,</hi> or three miles from any the Gates thereof, doe diuide any dwelling houſe by Leaſe, ſufferance, or otherwiſe, into, or for any more tenements or dwellings then are at this preſent, or haue beene heretofore vſed within the ſame by the ſpace of thirty yeeres laſt paſt.</p>
+            <p>THat no perſon doe hereafter receiue into any houſe, any Inmates or vnderſitters, or any more Families then one.</p>
+            <pb facs="tcp:1126:6"/>
+            <p>That no perſon or perſons who ſhall erect a new houſe vpon, or within the precincts of an old foundation, ſhall diuide the ſame into more Tenements, or ſeuerall dwellings then were vſed in the ſaid former houſes.</p>
+            <p>BY the due obſeruation of which ſeuerall Articles, as the vniformity of the buildings will bring much honour to the City, &amp; grace and ornament, both to the ſtreets thereof, and to the neighbour townes; ſo the building with Bricke or Stone will be more durable, and more ſafe from the danger and caſualty of fire: &amp; withall the reducing of all ſorts of houſes to this order, and the preſent remouing of Inmates and Vnderſitters according to this direction, will in ſhort time diſcontinue, and take away the many Cottages, Sheds, and baſe places of habita<g ref="char:EOLhyphen"/>tions in By lanes, and backe Streets, whereby the City, Suburbes, and Confines will be<g ref="char:EOLhyphen"/>come more ſutable, and leſſe ſubiect to that danger of ſickneſſe and infection, which by the vn<g ref="char:EOLhyphen"/>wholſome peſtering of multitudes of poore people together, is now threatned againſt the ſame. And therefore We vpon mature, and deliberate conſideration taken of the premiſſes, doe ſtraitly charge &amp; command, all and euery perſon &amp; perſons, of whatſoeuer degree, qua<g ref="char:EOLhyphen"/>lity, or condition he or they be: That he, they, and euery of them, doe well and truly obſerue and keepe, all and ſingular the Articles before ſpecified, in all things to them reſpectiuely be<g ref="char:EOLhyphen"/>longing, as they will auoid Our high diſpleaſure, and ſuch further penalties and puniſh<g ref="char:EOLhyphen"/>ments, as their contempts and neglects herein ſhall demerit, and by Our Prerogatiue royall, or otherwiſe may be inflicted vpon them.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Nonſuch: <date>the ſixteenth day of Iuly, in the ſixth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent MAIESTIE: and by the Aſsignes of Iohn Bill. M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
